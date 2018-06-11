@@ -1,0 +1,40 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-5-10 22:6:5",
+  "loopSlideshow" : 1,
+  "filename" : "eposter",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "eposter",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "7D643FA7-9A1F-45A5-A30F-7828735F3C35",
+    "C987EBFE-55FC-4121-9051-65784D345A8D",
+    "3098BA27-2956-4FD9-BB3F-7865137F0C02",
+    "24AF1DAD-DFB5-4366-8D61-D66C65360B40"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 4,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Futura-Medium",
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "HelveticaNeue",
+    "HelveticaNeue-Thin",
+    "Helvetica",
+    "Courier-Bold",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+}
