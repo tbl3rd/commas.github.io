@@ -1,7 +1,7 @@
 local_header( {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-5-10 22:6:5",
+  "timestamp" : "2018-15-11 9:6:1",
   "loopSlideshow" : 1,
   "filename" : "eposter",
   "autoplayBuildDelay" : 2,
@@ -29,10 +29,10 @@ local_header( {
     "Helvetica-Light",
     "HelveticaNeue-Light",
     "HelveticaNeue-Bold",
-    "HelveticaNeue-Italic",
     "HelveticaNeue",
-    "HelveticaNeue-Thin",
+    "HelveticaNeue-Italic",
     "Helvetica",
+    "HelveticaNeue-Thin",
     "Courier-Bold",
     "GillSans",
     "HelveticaNeue-Medium"

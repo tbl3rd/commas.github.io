@@ -2,20 +2,6 @@ local_slide( {
   "name" : "24AF1DAD-DFB5-4366-8D61-D66C65360B40",
   "json" : {
     "assets" : {
-      "D0571C55D858BFE2CC02CE4B06BB2D84" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/24AF1DAD-DFB5-4366-8D61-D66C65360B40.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
       "10D9B4E75AB43B688B9BE0622799AD0B" : {
         "type" : "texture",
         "index" : 7,
@@ -29,6 +15,20 @@ local_slide( {
         },
         "width" : 15,
         "height" : 20
+      },
+      "CE6E2AEAC3D19EBD6955866DBC90BC87" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/24AF1DAD-DFB5-4366-8D61-D66C65360B40.pdf"
+        },
+        "width" : 54,
+        "height" : 54
       },
       "A3ED0872B0B8D5456B6F841CDE3936B6" : {
         "type" : "texture",
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "CD2EFD890C38F8A26E01377050E73C49" : {
+      "75B26C6C04BABF271B3D28FD5DC36FCA" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/24AF1DAD-DFB5-4366-8D61-D66C65360B40.pdf"
         },
-        "width" : 54,
-        "height" : 54
+        "width" : 761,
+        "height" : 870
       },
       "0BC23B5DBB3BE9CC2999564F068E5D68" : {
         "type" : "texture",
@@ -114,9 +114,9 @@ local_slide( {
         "width" : 24,
         "height" : 916
       },
-      "933C4AB89FB74428E40D5CD6C3CA593B" : {
+      "829739592D60667CD7CCC80CB175C841" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,8 +125,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/24AF1DAD-DFB5-4366-8D61-D66C65360B40.pdf"
         },
-        "width" : 761,
-        "height" : 870
+        "width" : 1920,
+        "height" : 1080
       },
       "C81E377433B07AC46936F2351D9EA12A" : {
         "type" : "texture",
@@ -405,7 +405,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D0571C55D858BFE2CC02CE4B06BB2D84"
+                      "texture" : "829739592D60667CD7CCC80CB175C841"
                     }
                   ]
                 }
@@ -432,195 +432,6 @@ local_slide( {
               "x" : 736.1248779296875,
               "width" : 447.7502746582031,
               "height" : 31.95213317871094
-            }
-          },
-          {
-            "text" : "This is fun programming but (as of 1961) bad biology.",
-            "targetRectangle" : {
-              "y" : 120.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 729.6980000000003,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "Biology is not physics and certainly not engineering.",
-            "targetRectangle" : {
-              "y" : 190.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 720.0410000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "Life’s processes are rarely efficient or mistake free.",
-            "targetRectangle" : {
-              "y" : 225.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 704.671,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "(Crick and Gamow were both degreed in physics.)",
-            "targetRectangle" : {
-              "y" : 260.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 687.3000000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "What is this program about? Can you follow it?",
-            "targetRectangle" : {
-              "y" : 330.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 645.9460000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "This programming language is as old as this paper.",
-            "targetRectangle" : {
-              "y" : 400.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 702.7859999999999,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "It was designed to help machines help us think.",
-            "targetRectangle" : {
-              "y" : 435.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 655.0230000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "It is almost the simplest language that can work.",
-            "targetRectangle" : {
-              "y" : 505.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 670.5380000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "So the program is about the world more than itself.",
-            "targetRectangle" : {
-              "y" : 540.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 703.424,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "A programming language can be a tool of discovery",
-            "targetRectangle" : {
-              "y" : 575.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 713.6030000000003,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "and not just the means of commanding a computer.",
-            "targetRectangle" : {
-              "y" : 610.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 712.5880000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "You can develop and explore a program while it runs.",
-            "targetRectangle" : {
-              "y" : 680.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 731.3799999999999,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "And see the value of each expression as it’s evaluated.",
-            "targetRectangle" : {
-              "y" : 715.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 752.4339999999999,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "They appear here literally as the computer prints them.",
-            "targetRectangle" : {
-              "y" : 750.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 756.5810000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "(“Notebook systems” like Jupyter return to this idea.)",
-            "targetRectangle" : {
-              "y" : 785.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 732.4530000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "How do you think with your programming language?",
-            "targetRectangle" : {
-              "y" : 855.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 723.2890000000001,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "Does it aid or hinder your understanding of the world?",
-            "targetRectangle" : {
-              "y" : 890.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 746.4310000000003,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "(-: BTW: Did you notice any commas in this code? :-)",
-            "targetRectangle" : {
-              "y" : 960.6263580322266,
-              "x" : 103.9959945678711,
-              "width" : 721.143,
-              "height" : 34.15879821777344
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 1035,
-              "x" : 953.5090000629425,
-              "width" : 12.23199999999997,
-              "height" : 26.36184692382812
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 35.71953964233398,
-              "x" : 83.37381744384766,
-              "width" : 231,
-              "height" : 76
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 48.18178176879883,
-              "x" : 1753.2578125,
-              "width" : 51.07551956176758,
-              "height" : 51.07551956176758
             }
           },
           {
@@ -945,6 +756,195 @@ local_slide( {
               "x" : 1006.017333984375,
               "width" : 723.7177734375,
               "height" : 22
+            }
+          },
+          {
+            "text" : "This is fun programming but (as of 1961) bad biology.",
+            "targetRectangle" : {
+              "y" : 120.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 729.6980000000003,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "Biology is not physics and certainly not engineering.",
+            "targetRectangle" : {
+              "y" : 190.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 720.0410000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "Life’s processes are rarely efficient and often messy.",
+            "targetRectangle" : {
+              "y" : 225.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 722.4480000000003,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "(Crick and Gamow were both degreed in physics.)",
+            "targetRectangle" : {
+              "y" : 260.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 687.3000000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "What is this program about? Can you follow it?",
+            "targetRectangle" : {
+              "y" : 330.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 645.9460000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "This programming language is as old as this paper.",
+            "targetRectangle" : {
+              "y" : 400.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 702.7859999999999,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "It was designed to help machines help us think.",
+            "targetRectangle" : {
+              "y" : 435.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 655.0230000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "It is almost the simplest language that can work.",
+            "targetRectangle" : {
+              "y" : 505.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 670.5380000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "So the program is about the world more than itself.",
+            "targetRectangle" : {
+              "y" : 540.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 703.424,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "A programming language can be a tool of discovery",
+            "targetRectangle" : {
+              "y" : 575.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 713.6030000000003,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "and not just the means of commanding a computer.",
+            "targetRectangle" : {
+              "y" : 610.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 712.5880000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "You can develop and explore a program while it runs.",
+            "targetRectangle" : {
+              "y" : 680.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 731.3799999999999,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "And see the value of each expression as it’s evaluated.",
+            "targetRectangle" : {
+              "y" : 715.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 752.4339999999999,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "They appear here literally as the computer prints them.",
+            "targetRectangle" : {
+              "y" : 750.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 756.5810000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "(“Notebook systems” like Jupyter return to this idea.)",
+            "targetRectangle" : {
+              "y" : 785.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 732.4530000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "How do you think with your programming language?",
+            "targetRectangle" : {
+              "y" : 855.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 723.2890000000001,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "Does it aid or hinder your understanding of the world?",
+            "targetRectangle" : {
+              "y" : 890.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 746.4310000000003,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "(-: BTW: Did you notice any commas in this code? :-)",
+            "targetRectangle" : {
+              "y" : 960.6263580322266,
+              "x" : 103.9959945678711,
+              "width" : 721.143,
+              "height" : 34.15879821777344
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 35.71953964233398,
+              "x" : 83.37381744384766,
+              "width" : 231,
+              "height" : 76
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 48.18178176879883,
+              "x" : 1753.2578125,
+              "width" : 51.07551956176758,
+              "height" : 51.07551956176758
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 1035,
+              "x" : 953.5090000629425,
+              "width" : 12.23199999999997,
+              "height" : 26.36184692382812
             }
           }
         ],
@@ -1553,7 +1553,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "933C4AB89FB74428E40D5CD6C3CA593B"
+                      "texture" : "75B26C6C04BABF271B3D28FD5DC36FCA"
                     }
                   ]
                 }
@@ -2096,7 +2096,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "CD2EFD890C38F8A26E01377050E73C49"
+                      "texture" : "CE6E2AEAC3D19EBD6955866DBC90BC87"
                     }
                   ]
                 }

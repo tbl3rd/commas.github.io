@@ -112,6 +112,20 @@
       "width" : 24,
       "height" : 916
     },
+    "829739592D60667CD7CCC80CB175C841" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/3098BA27-2956-4FD9-BB3F-7865137F0C02.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
     "CE6E2AEAC3D19EBD6955866DBC90BC87" : {
       "type" : "texture",
       "index" : 5,
@@ -125,20 +139,6 @@
       },
       "width" : 54,
       "height" : 54
-    },
-    "D0571C55D858BFE2CC02CE4B06BB2D84" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/3098BA27-2956-4FD9-BB3F-7865137F0C02.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
     }
   },
   "events" : [
@@ -322,7 +322,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "D0571C55D858BFE2CC02CE4B06BB2D84"
+                    "texture" : "829739592D60667CD7CCC80CB175C841"
                   },
                   {
                     "animations" : [
@@ -423,6 +423,33 @@
 
       ],
       "accessibility" : [
+        {
+          "text" : "Eureka!",
+          "targetRectangle" : {
+            "y" : 948.0038681030273,
+            "x" : 1618.364116668701,
+            "width" : 61.9716796875,
+            "height" : 24.4638671875
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 1035,
+            "x" : 953.5090000629425,
+            "width" : 12.23199999999997,
+            "height" : 26.36184692382812
+          }
+        },
+        {
+          "text" : "pasted-image.tiff",
+          "targetRectangle" : {
+            "y" : 40.41014099121094,
+            "x" : 736.1248779296875,
+            "width" : 447.7502746582031,
+            "height" : 31.95213317871094
+          }
+        },
         {
           "text" : "pasted-image.tiff",
           "targetRectangle" : {
@@ -732,33 +759,6 @@
         {
           "text" : "pasted-image.tiff",
           "targetRectangle" : {
-            "y" : 48.18178176879883,
-            "x" : 1753.2578125,
-            "width" : 51.07551956176758,
-            "height" : 51.07551956176758
-          }
-        },
-        {
-          "text" : "Eureka!",
-          "targetRectangle" : {
-            "y" : 948.0038681030273,
-            "x" : 1618.364116668701,
-            "width" : 61.9716796875,
-            "height" : 24.4638671875
-          }
-        },
-        {
-          "text" : "pasted-image.tiff",
-          "targetRectangle" : {
-            "y" : 40.41014099121094,
-            "x" : 736.1248779296875,
-            "width" : 447.7502746582031,
-            "height" : 31.95213317871094
-          }
-        },
-        {
-          "text" : "pasted-image.tiff",
-          "targetRectangle" : {
             "y" : 110.7923278808594,
             "x" : 65.66666412353516,
             "width" : 864.0289916992188,
@@ -766,12 +766,12 @@
           }
         },
         {
-          "text" : "￼",
+          "text" : "pasted-image.tiff",
           "targetRectangle" : {
-            "y" : 1035,
-            "x" : 953.5090000629425,
-            "width" : 12.23199999999997,
-            "height" : 26.36184692382812
+            "y" : 48.18178176879883,
+            "x" : 1753.2578125,
+            "width" : 51.07551956176758,
+            "height" : 51.07551956176758
           }
         }
       ],
